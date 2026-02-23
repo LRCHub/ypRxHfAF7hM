@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "37.5℃のファンタジー",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-02-23T06:11:48.654950Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "37.5℃のファンタジー",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_37.5°Cのファンタジー_スリーズブーケ.txt"
+    }
+  ]
+}
